@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**PrakashKumarSahu/PrakashKumarSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Prakash, a Computer Science student at NIT Raipur and a National Games Gold Medalist in Yogasana.
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Embedded Systems, IoT, AI, and Robotics.
+🚀 Building projects that combine technology with real-world impact, especially in healthcare, automation, and sports technology.
+🌱 Currently exploring Full-Stack Development, System Design, Embedded Engineering, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+* Languages: C++, C, Python, JavaScript
+* Frontend: React, HTML, CSS
+* Backend: Django, Django REST Framework
+* Database: PostgreSQL, SQLite
+* Tools: Git, Linux, Arduino, ESP32
+* Interests: Embedded Systems, IoT, AI/ML, Robotics, System Design
