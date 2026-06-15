@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Prakash, a Computer Science student at NIT Raipur and a National Games Gold Medalist in Yogasana.
+I'm Prakash, a Computer Science student at NIT Raipur.
 
 💻 Passionate about Software Development, Embedded Systems, IoT, AI, and Robotics.
 🚀 Building projects that combine technology with real-world impact, especially in healthcare, automation, and sports technology.
